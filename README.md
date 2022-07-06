@@ -4,6 +4,6 @@
 - 📫 Me pueden contactar:
 -   mail: mbonifatto@gmail.com
 -   Tel: +549362 4210283
--   Twitter: @pachobonifatto
+- 
 -   
 
