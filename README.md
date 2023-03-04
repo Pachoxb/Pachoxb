@@ -17,3 +17,20 @@
 # *Contacto: 
 - Mail: mbonifatto@gmail.com
 - Twitter: https://twitter.com/pachobonifatto
+
+***
+    
+| Comando | Descripcion |
+|------  | ------ |
+| date   | Fecha y Hora |
+| uptime | Tiempo transcurrido |
+| cal    | Calendario |
+| whoami | Nombre usuario actual |
+
+***
+
+| Comando | Descripcion |
+|-------- | ---------- |
+| grep   | Filtrar por palabras |
+| cl     | Limpiar pantalla |
+
