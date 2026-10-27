@@ -16,7 +16,6 @@
 
 # *Contacto: 
 - Mail: mbonifatto@gmail.com
-- Twitter: https://twitter.com/pachobonifatto
 
 # *GitHub:
 - https://github.com/Pachoxb
